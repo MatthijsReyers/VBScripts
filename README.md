@@ -2,7 +2,6 @@
 
 Just a bunch of VBScript files I've created over the years. They're mostly harmless but do show the potential VBScript has
 
-| First Header  | Second Header |
+| File name  | Payload description |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| CopyThyself.vbs  | File that copies itself to the windows startup folder and shows a message box.  |
