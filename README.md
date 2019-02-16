@@ -2,6 +2,7 @@
 
 Just a bunch of VBScript files I've created over the years. They're mostly harmless but do show the potential VBScript has
 
+| First Header  | Second Header |
 | ------------- | ------------- |
-| CopyThyself.vbs  | test  |
+| Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
