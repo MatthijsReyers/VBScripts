@@ -1,4 +1,4 @@
-# Microsoft Visual Basic Script Payloads 
+# Microsoft Visual Basic Scripts
 
 Just a bunch of VBScript files I've created over the years, they're mostly harmless but do show the potentially damaging potential VBScript has.
 
